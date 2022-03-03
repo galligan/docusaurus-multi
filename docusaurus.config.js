@@ -71,7 +71,7 @@ const config = {
             label: 'Docs',
           },
           {
-            to: '/demo/intro',
+            to: '/demo/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
             label: 'Demo',
             activeBaseRegex: `/demo/`,
