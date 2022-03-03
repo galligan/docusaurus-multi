@@ -99,7 +99,11 @@ const sidebars = {
 
 ## Installation
 
-Simply `fork` this repository, or click the `Use this template` button above.
+Simply `fork` this repository, or click the `Use this template` button above. Then:
+
+```
+$ npm install
+```
 
 ## Local Development
 
