@@ -71,6 +71,12 @@ const config = {
             label: 'Docs',
           },
           {
+            to: '/demo/intro',
+            position: 'left',
+            label: 'Demo',
+            activeBaseRegex: `/demo/`,
+          },
+          {
             to: '/blog',
             label: 'Blog',
             position: 'left'
